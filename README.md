@@ -1,6 +1,6 @@
 # LinkedIn-Automation (Business Lead Generator)
 
-## Author : Dixit Ghodadara - [Github](https://github.com/DixitGdev)
+## Author : Dixit Ghodadara - [Github](https://github.com/gustavo05471809)
 
 ### Demo --> [YouTube video](https://youtu.be/fxWGsXbT_x0)
 
